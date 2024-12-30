@@ -100,7 +100,7 @@ nav span {
 /* Imagen de fondo para cada imagen */
 
 .t1 {
-  background-image: url('../Background\ 02\ Servicios.jpg');
+  background-image: url('./Background\ 02\ Servicios.jpg');
 }
 
 .t2 {
